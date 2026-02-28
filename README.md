@@ -11,8 +11,12 @@
 - 한국어 문장을 영어 어순(끊어읽기)으로 제시
 - 학생이 영어를 머릿속으로 떠올린 후 탭으로 영어 확인
 - 영어 확인 즉시 Google TTS 자동 재생
+- 한 번 들으면 다음 문장으로 이동 시 자동 재생 지속
 - 다시 듣기 / 느리게(0.7x) 버튼으로 반복 청취 지원
+- 필수 어휘 영문 클릭 → 단어 발음 즉시 재생
 - 간격 반복(Spaced Repetition) 스케줄로 장기 기억 유도
+- 챕터 카드 및 학습 화면에서 진행 단계 표시
+- 복습 기간 도달 챕터 홈 화면 상단 우선 표시
 
 ---
 
@@ -191,6 +195,7 @@ test_history      id, profile_id, chapter_id, date, score, round
 | Method | Path | 설명 |
 |--------|------|------|
 | GET | `/api/progress/:profileId` | 전체 챕터 진행도 |
+| GET | `/api/progress/:profileId/:chapterId` | 챕터 전체 진행 데이터 |
 | GET | `/api/progress/:profileId/:chapterId/status` | 챕터 상태 반환 |
 | POST | `/api/progress/:profileId/:chapterId/study` | 학습 횟수 기록 |
 | POST | `/api/progress/:profileId/:chapterId/test` | `{ score }` → 시험 기록 |
@@ -230,11 +235,14 @@ make_deploy.bat 실행
 배포 폴더 구성:
 ```
 deploy/
-├── data/           챕터 JSON + learning.db
+├── data/           챕터 JSON (learning.db 제외 — 각 기기 독립 생성)
 ├── server/         index.js, db.js, package.json, .env
 ├── client/dist/    빌드된 React 앱
 └── start.bat
 ```
+
+> **주의**: `learning.db`(진행 데이터)는 배포에 포함되지 않습니다.
+> 처음 실행 시 자동으로 빈 DB가 생성됩니다.
 
 ### 클라우드 배포 (Railway)
 
