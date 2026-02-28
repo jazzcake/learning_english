@@ -1,0 +1,266 @@
+{
+  "id": 4,
+  "type": "grammar",
+  "title": "현재분사와 과거분사 (형용사 역할)",
+  "key_points": "- **현재분사 (V-ing):** 능동(~하는) / 진행(~하고 있는) / **감정을 유발하는**\n    - *Example:* sleeping baby (잠자고 있는 아기), exciting game (신나는 게임)\n- **과거분사 (V-ed/p.p):** 수동(~된, ~해진) / 완료(~한) / **감정을 느끼는**\n    - *Example:* broken window (깨진 창문), excited fans (신난 팬들)\n- **위치:** 명사 앞에서 꾸미거나, 길어지면 명사 뒤에서 꾸며줍니다.\n\n---",
+  "sentences": [
+    {
+      "id": 1,
+      "korean": "봐라 / 저 울고 있는 아기를",
+      "english": "Look at / the crying baby.",
+      "highlight": "the crying baby"
+    },
+    {
+      "id": 2,
+      "korean": "조심해라 / 그 깨진 유리를",
+      "english": "Watch out for / the broken glass.",
+      "highlight": "the broken glass"
+    },
+    {
+      "id": 3,
+      "korean": "그 잠자고 있는 개는 / 이다 / 귀여운",
+      "english": "The sleeping dog / is / cute.",
+      "highlight": "The sleeping dog"
+    },
+    {
+      "id": 4,
+      "korean": "나는 / 좋아한다 / 삶은 달걀을",
+      "english": "I / like / boiled eggs.",
+      "highlight": "boiled eggs"
+    },
+    {
+      "id": 5,
+      "korean": "그 게임은 / 이었다 / 정말 흥미진진한",
+      "english": "The game / was / really exciting.",
+      "highlight": "really exciting"
+    },
+    {
+      "id": 6,
+      "korean": "그 관중들은 / 이었다 / 매우 흥분한",
+      "english": "The spectators / were / very excited.",
+      "highlight": "very excited"
+    },
+    {
+      "id": 7,
+      "korean": "그 소년은 / 축구를 하고 있는 / 이다 / 내 남동생",
+      "english": "The boy / playing soccer / is / my brother.",
+      "highlight": "playing soccer"
+    },
+    {
+      "id": 8,
+      "korean": "그 책은 / 영어로 쓰여진 / 이다 / 어려운",
+      "english": "The book / written in English / is / difficult.",
+      "highlight": "written in English"
+    },
+    {
+      "id": 9,
+      "korean": "이것은 / 이다 / 지루한 영화",
+      "english": "This / is / a boring movie.",
+      "highlight": "a boring movie"
+    },
+    {
+      "id": 10,
+      "korean": "그 학생들은 / 지루해했다 / 수업 중에",
+      "english": "The students / were bored / during the class.",
+      "highlight": "were bored"
+    },
+    {
+      "id": 11,
+      "korean": "너는 아니 / 저 소녀를 / 문 옆에 서 있는?",
+      "english": "Do you know / the girl / standing by the door?",
+      "highlight": "standing by the door"
+    },
+    {
+      "id": 12,
+      "korean": "나는 / 받았다 / 편지 한 통을 / 제니에 의해 쓰여진",
+      "english": "I / received / a letter / written by Jenny.",
+      "highlight": "written by Jenny"
+    },
+    {
+      "id": 13,
+      "korean": "짖는 개는 / 좀처럼 물지 않는다",
+      "english": "A barking dog / seldom / bites.",
+      "highlight": "A barking dog"
+    },
+    {
+      "id": 14,
+      "korean": "그들은 / 발견했다 / 그 숨겨진 보물을",
+      "english": "They / found / the hidden treasure.",
+      "highlight": "the hidden treasure"
+    },
+    {
+      "id": 15,
+      "korean": "그 뉴스는 / 이었다 / 충격적인",
+      "english": "The news / was / shocking.",
+      "highlight": "shocking"
+    },
+    {
+      "id": 16,
+      "korean": "우리는 / 충격을 받았다 / 그 뉴스에",
+      "english": "We / were shocked / at the news.",
+      "highlight": "were shocked"
+    },
+    {
+      "id": 17,
+      "korean": "그 남자는 / 신문을 읽고 있는 / 이다 / 우리 선생님",
+      "english": "The man / reading a newspaper / is / my teacher.",
+      "highlight": "reading a newspaper"
+    },
+    {
+      "id": 18,
+      "korean": "그 가방은 / 책으로 채워진 / 이다 / 무거운",
+      "english": "The bag / filled with books / is / heavy.",
+      "highlight": "filled with books"
+    },
+    {
+      "id": 19,
+      "korean": "그녀는 / 가지고 있다 / 매력적인 미소를",
+      "english": "She / has / a charming smile.",
+      "highlight": "a charming smile"
+    },
+    {
+      "id": 20,
+      "korean": "나는 / 샀다 / 중고 차를",
+      "english": "I / bought / a used car.",
+      "highlight": "a used car"
+    },
+    {
+      "id": 21,
+      "korean": "그 결과는 / 이었다 / 실망스러운",
+      "english": "The result / was / disappointing.",
+      "highlight": "disappointing"
+    },
+    {
+      "id": 22,
+      "korean": "나는 / 실망했다 / 그 결과에",
+      "english": "I / was disappointed / with the result.",
+      "highlight": "was disappointed"
+    },
+    {
+      "id": 23,
+      "korean": "그 여자는 / 커피를 마시고 있는 / 이다 / 나의 이모",
+      "english": "The lady / drinking coffee / is / my aunt.",
+      "highlight": "drinking coffee"
+    },
+    {
+      "id": 24,
+      "korean": "모든 사람들은 / 파티에 초대된 / 가졌다 / 즐거운 시간을",
+      "english": "Everyone / invited to the party / had / a good time.",
+      "highlight": "invited to the party"
+    },
+    {
+      "id": 25,
+      "korean": "봐라 / 그 떨어지는 잎들을",
+      "english": "Look at / the falling leaves.",
+      "highlight": "the falling leaves"
+    },
+    {
+      "id": 26,
+      "korean": "그 떨어진 잎들은 (낙엽) / 이다 / 갈색",
+      "english": "The fallen leaves / are / brown.",
+      "highlight": "The fallen leaves"
+    },
+    {
+      "id": 27,
+      "korean": "나는 / 좋아하지 않는다 / 튀긴 음식을",
+      "english": "I / don't like / fried food.",
+      "highlight": "fried food"
+    },
+    {
+      "id": 28,
+      "korean": "내 직업은 / 이다 / 피곤하게 하는 (힘든)",
+      "english": "My job / is / tiring.",
+      "highlight": "tiring"
+    },
+    {
+      "id": 29,
+      "korean": "나는 / 이다 / 매우 피곤한",
+      "english": "I / am / very tired.",
+      "highlight": "very tired"
+    },
+    {
+      "id": 30,
+      "korean": "경찰은 / 찾았다 / 그 도난당한 돈을",
+      "english": "The police / found / the stolen money.",
+      "highlight": "the stolen money"
+    }
+  ],
+  "vocabulary": [
+    {
+      "english": "bark",
+      "korean": "(개가) 짖다",
+      "note": ""
+    },
+    {
+      "english": "boil",
+      "korean": "끓이다",
+      "note": "boiled(삶은)"
+    },
+    {
+      "english": "treasure",
+      "korean": "보물",
+      "note": "hidden(숨겨진)"
+    },
+    {
+      "english": "shocking",
+      "korean": "충격적인",
+      "note": "감정 유발(사물 주어)"
+    },
+    {
+      "english": "shocked",
+      "korean": "충격을 받은",
+      "note": "감정 느낌(사람 주어)"
+    },
+    {
+      "english": "fill",
+      "korean": "채우다",
+      "note": "filled with(~로 가득 찬)"
+    },
+    {
+      "english": "charming",
+      "korean": "매력적인",
+      "note": ""
+    },
+    {
+      "english": "used car",
+      "korean": "중고차",
+      "note": ""
+    },
+    {
+      "english": "disappoint",
+      "korean": "실망시키다",
+      "note": "disappointing/disappointed"
+    },
+    {
+      "english": "invite",
+      "korean": "초대하다",
+      "note": ""
+    },
+    {
+      "english": "fall",
+      "korean": "떨어지다",
+      "note": "falling(진행)/fallen(완료)"
+    },
+    {
+      "english": "fry",
+      "korean": "튀기다",
+      "note": "fried(튀겨진)"
+    },
+    {
+      "english": "tire",
+      "korean": "피곤하게 하다",
+      "note": "tiring/tired"
+    },
+    {
+      "english": "steal",
+      "korean": "훔치다",
+      "note": "stolen(도난당한)"
+    },
+    {
+      "english": "seldom",
+      "korean": "좀처럼 ~않는",
+      "note": "빈도부사"
+    }
+  ],
+  "exam_tips": "1. **감정 형용사 구분법 (가장 중요!)**\n    - 주어가 **감정을 주는 원인**(주로 사물/상황)이면 → **ing** (ex. The movie is bor**ing**.)\n    - 주어가 **감정을 느끼는 주체**(주로 사람)이면 → **ed** (ex. I am bor**ed**.)\n2. **명사 뒤에서 꾸밀 때 (후치 수식)**\n    - `The boy playing soccer` 처럼 분사 뒤에 다른 단어(목적어, 전치사구 등)가 붙어서 길어지면 **명사 뒤**로 갑니다.\n    - 이때 명사와 분사 사이에는 **주격 관계대명사+be동사** (who is, which is)가 생략된 것으로 봅니다.\n3. **자동사의 pp는 '수동'이 아니라 '완료'**\n    - `Fallen leaves`는 '떨어지게 된 잎'이 아니라 '이미 다 떨어진 잎(낙엽)'을 의미합니다.\n\n---\n\n분사의 개념을 잡았으니, 이제 이 분사와 `have`를 합쳐서 만드는 시제인 **Chapter 05. 현재완료 시제**로 넘어가는 것이 아주 자연스러운 순서입니다."
+}

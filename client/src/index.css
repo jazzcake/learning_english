@@ -1,0 +1,47 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+:root {
+  --bg: #f0f4ff;
+  --surface: #ffffff;
+  --primary: #4f7cff;
+  --primary-dark: #3a63d8;
+  --accent: #ff6b6b;
+  --text: #1a1a2e;
+  --text-muted: #6b7280;
+  --highlight: #ffd166;
+  --highlight-text: #7c4f00;
+  --success: #06d6a0;
+  --warning: #ffd166;
+  --radius: 16px;
+  --shadow: 0 4px 16px rgba(0,0,0,0.10);
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Noto Sans KR', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease forwards;
+}

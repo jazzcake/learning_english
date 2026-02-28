@@ -1,0 +1,266 @@
+{
+  "id": 5,
+  "type": "grammar",
+  "title": "현재완료 시제 (Present Perfect)",
+  "key_points": "- **형태:** have (has) + p.p. (과거분사)\n- **의미:** 과거에 일어난 일이 현재까지 영향을 미치고 있음을 나타냄.\n- **4가지 용법:**\n    1. **완료:** 막 ~했다 (just, already, yet)\n    2. **경험:** ~해본 적이 있다 (ever, never, before, once)\n    3. **계속:** (과거부터) 쭉 ~해오고 있다 (for, since)\n    4. **결과:** ~해버렸다 (그래서 지금은 없다) (lost, gone)\n\n---",
+  "sentences": [
+    {
+      "id": 1,
+      "korean": "나는 / 잃어버렸다 / 내 열쇠를 (그래서 지금 없다)",
+      "english": "I / have lost / my key.",
+      "highlight": "have lost"
+    },
+    {
+      "id": 2,
+      "korean": "그녀는 / 살아왔다 / 여기에서 / 10년 동안",
+      "english": "She / has lived / here / for 10 years.",
+      "highlight": "has lived"
+    },
+    {
+      "id": 3,
+      "korean": "너는 / 먹어본 적 있니 / 김치를?",
+      "english": "Have you ever eaten / Kimchi?",
+      "highlight": "Have you ever eaten"
+    },
+    {
+      "id": 4,
+      "korean": "나는 / 막 끝냈다 / 내 숙제를",
+      "english": "I / have just finished / my homework.",
+      "highlight": "have just finished"
+    },
+    {
+      "id": 5,
+      "korean": "그는 / 가버렸다 / 미국으로 (그래서 지금 여기 없다)",
+      "english": "He / has gone / to America.",
+      "highlight": "has gone"
+    },
+    {
+      "id": 6,
+      "korean": "우리는 / 알고 지냈다 / 서로를 / 2010년부터",
+      "english": "We / have known / each other / since 2010.",
+      "highlight": "have known"
+    },
+    {
+      "id": 7,
+      "korean": "나는 / 본 적이 없다 / 호랑이를",
+      "english": "I / have never seen / a tiger.",
+      "highlight": "have never seen"
+    },
+    {
+      "id": 8,
+      "korean": "그 기차는 / 이미 떠났다",
+      "english": "The train / has already left.",
+      "highlight": "has already left"
+    },
+    {
+      "id": 9,
+      "korean": "너는 / 끝냈니 / 그 보고서를 / 벌써(아직)?",
+      "english": "Have you finished / the report / yet?",
+      "highlight": "Have you finished"
+    },
+    {
+      "id": 10,
+      "korean": "그녀는 / 샀다 / 새 차를 (그래서 지금 새 차가 있다)",
+      "english": "She / has bought / a new car.",
+      "highlight": "has bought"
+    },
+    {
+      "id": 11,
+      "korean": "나는 / 방문한 적이 있다 / 제주도를 / 두 번",
+      "english": "I / have visited / Jeju Island / twice.",
+      "highlight": "have visited"
+    },
+    {
+      "id": 12,
+      "korean": "비가 왔다 / 3일 동안 (계속)",
+      "english": "It / has rained / for three days.",
+      "highlight": "has rained"
+    },
+    {
+      "id": 13,
+      "korean": "톰은 / 부러졌다 / 그의 다리가 (그래서 지금 다친 상태다)",
+      "english": "Tom / has broken / his leg.",
+      "highlight": "has broken"
+    },
+    {
+      "id": 14,
+      "korean": "나는 / 만난 적이 없다 / 그를 / 전에",
+      "english": "I / haven't met / him / before.",
+      "highlight": "haven't met"
+    },
+    {
+      "id": 15,
+      "korean": "우리 아빠는 / 끊었다 / 담배를 (그래서 지금 안 피운다)",
+      "english": "My father / has quit / smoking.",
+      "highlight": "has quit"
+    },
+    {
+      "id": 16,
+      "korean": "그들은 / 결혼한 상태다 / 20년 동안",
+      "english": "They / have been married / for 20 years.",
+      "highlight": "have been married"
+    },
+    {
+      "id": 17,
+      "korean": "우리는 / 막 도착했다 / 역에",
+      "english": "We / have just arrived / at the station.",
+      "highlight": "have just arrived"
+    },
+    {
+      "id": 18,
+      "korean": "그녀는 / 잃어버렸다 / 그녀의 지갑을",
+      "english": "She / has lost / her wallet.",
+      "highlight": "has lost"
+    },
+    {
+      "id": 19,
+      "korean": "너는 / 타본 적 있니 / 말을?",
+      "english": "Have you ever ridden / a horse?",
+      "highlight": "Have you ever ridden"
+    },
+    {
+      "id": 20,
+      "korean": "나는 / 쳐왔다 / 피아노를 / 내가 7살 때부터",
+      "english": "I / have played / the piano / since I was seven.",
+      "highlight": "have played"
+    },
+    {
+      "id": 21,
+      "korean": "그는 / 돌아오지 않았다 / 아직",
+      "english": "He / hasn't come / back / yet.",
+      "highlight": "hasn't come"
+    },
+    {
+      "id": 22,
+      "korean": "누군가가 / 훔쳐 갔다 / 내 자전거를",
+      "english": "Someone / has stolen / my bike.",
+      "highlight": "has stolen"
+    },
+    {
+      "id": 23,
+      "korean": "나는 / 읽어봤다 / 저 책을 / 세 번",
+      "english": "I / have read / that book / three times.",
+      "highlight": "have read"
+    },
+    {
+      "id": 24,
+      "korean": "그녀는 / 아팠다 / 지난주부터 (지금도 아프다)",
+      "english": "She / has been / sick / since last week.",
+      "highlight": "has been"
+    },
+    {
+      "id": 25,
+      "korean": "나는 / 이미 청소했다 / 내 방을",
+      "english": "I / have already cleaned / my room.",
+      "highlight": "have already cleaned"
+    },
+    {
+      "id": 26,
+      "korean": "너는 / 들어본 적 있니 / 이 노래에 대해?",
+      "english": "Have you ever heard / of this song?",
+      "highlight": "Have you ever heard"
+    },
+    {
+      "id": 27,
+      "korean": "나의 삼촌은 / 가버렸다 / 파리로 (지금 여기 없음)",
+      "english": "My uncle / has gone / to Paris.",
+      "highlight": "has gone"
+    },
+    {
+      "id": 28,
+      "korean": "우리는 / 공부해왔다 / 영어를 / 5년 동안",
+      "english": "We / have studied / English / for 5 years.",
+      "highlight": "have studied"
+    },
+    {
+      "id": 29,
+      "korean": "나는 / 결정하지 못했다 / 아직",
+      "english": "I / haven't decided / yet.",
+      "highlight": "haven't decided"
+    },
+    {
+      "id": 30,
+      "korean": "그녀는 / 잊어버렸다 / 그의 이름을 (그래서 지금 모른다)",
+      "english": "She / has forgotten / his name.",
+      "highlight": "has forgotten"
+    }
+  ],
+  "vocabulary": [
+    {
+      "english": "lose (lost)",
+      "korean": "잃어버리다",
+      "note": ""
+    },
+    {
+      "english": "since",
+      "korean": "~이래로 (계속)",
+      "note": ""
+    },
+    {
+      "english": "leave (left)",
+      "korean": "떠나다",
+      "note": ""
+    },
+    {
+      "english": "report",
+      "korean": "보고서",
+      "note": ""
+    },
+    {
+      "english": "yet",
+      "korean": "(의문문) 벌써 / (부정문) 아직",
+      "note": ""
+    },
+    {
+      "english": "quit",
+      "korean": "그만두다, 끊다",
+      "note": ""
+    },
+    {
+      "english": "be married",
+      "korean": "결혼한 상태이다",
+      "note": ""
+    },
+    {
+      "english": "arrive",
+      "korean": "도착하다",
+      "note": ""
+    },
+    {
+      "english": "ride (ridden)",
+      "korean": "타다",
+      "note": ""
+    },
+    {
+      "english": "steal (stolen)",
+      "korean": "훔치다",
+      "note": ""
+    },
+    {
+      "english": "hear of",
+      "korean": "~에 대해 듣다",
+      "note": ""
+    },
+    {
+      "english": "decide",
+      "korean": "결정하다",
+      "note": ""
+    },
+    {
+      "english": "forget (forgotten)",
+      "korean": "잊어버리다",
+      "note": ""
+    },
+    {
+      "english": "already",
+      "korean": "이미, 벌써",
+      "note": ""
+    },
+    {
+      "english": "ever",
+      "korean": "(경험) 언젠가, 한 번이라도",
+      "note": ""
+    }
+  ],
+  "exam_tips": "1. **명백한 과거 부사와는 절대 함께 쓸 수 없음!**\n    - `yesterday`, `last night`, `in 2010`, `ago`, `when`과 같은 단어가 보이면 무조건 **과거 시제**를 써야 합니다.\n    - (X) I have lost my bag **yesterday**.\n    - (O) I **lost** my bag **yesterday**.\n2. **가버렸다(gone) vs 가본 적 있다(been)**\n    - `She has gone to Paris.` (그녀는 파리로 가버렸다 -> **지금 여기 없다**)\n    - `She has been to Paris.` (그녀는 파리에 가본 적이 있다 -> **경험**)\n    - *주의: \"I have gone to...\"나 \"We have gone to...\"는 \"나/우리가 여기 없는데 말하는 것\"이 되므로 논리적으로 거의 쓰지 않습니다.*\n3. **For vs Since**\n    - `For` + **기간** (숫자): for 3 years, for a week.\n    - `Since` + **시작 시점**: since yesterday, since 2010, since I was young.\n\n---"
+}

@@ -1,0 +1,266 @@
+{
+  "id": 3,
+  "type": "grammar",
+  "title": "동명사 (주어/목적어 역할과 관용 표현)",
+  "key_points": "- **형태:** 동사원형 + ing (예: eat → eating)\n- **의미:** ~하는 것, ~하기\n- **주요 역할:**\n    1. **주어:** 문장 맨 앞 (단수 취급)\n    2. **목적어:** `enjoy`, `finish`, `stop`, `mind` 등의 동사 뒤\n    3. **전치사의 목적어:** `in`, `at`, `of`, `about` 등 전치사 뒤에는 무조건 `ing`!\n\n---",
+  "sentences": [
+    {
+      "id": 1,
+      "korean": "동전을 수집하는 것은 / 이다 / 나의 취미",
+      "english": "Collecting coins / is / my hobby.",
+      "highlight": "Collecting coins"
+    },
+    {
+      "id": 2,
+      "korean": "나는 / 즐긴다 / 축구하는 것을 / 방과 후에",
+      "english": "I / enjoy / playing soccer / after school.",
+      "highlight": "playing soccer"
+    },
+    {
+      "id": 3,
+      "korean": "그는 / 멈췄다 / 담배 피우는 것을 / 작년에",
+      "english": "He / stopped / smoking / last year.",
+      "highlight": "smoking"
+    },
+    {
+      "id": 4,
+      "korean": "너는 / 끝냈니 / 너의 방 청소하는 것을?",
+      "english": "Have you / finished / cleaning your room?",
+      "highlight": "cleaning your room"
+    },
+    {
+      "id": 5,
+      "korean": "그녀는 / 능숙하다 / 수영하는 것에",
+      "english": "She / is good at / swimming.",
+      "highlight": "swimming"
+    },
+    {
+      "id": 6,
+      "korean": "일기를 쓰는 것은 / 이다 / 좋은 습관",
+      "english": "Keeping a diary / is / a good habit.",
+      "highlight": "Keeping a diary"
+    },
+    {
+      "id": 7,
+      "korean": "꺼리시나요? (괜찮으신가요?) / 창문을 여는 것을",
+      "english": "Do you / mind / opening the window?",
+      "highlight": "opening the window"
+    },
+    {
+      "id": 8,
+      "korean": "우리는 / 포기했다 / 그 산을 오르는 것을",
+      "english": "We / gave up / climbing the mountain.",
+      "highlight": "climbing the mountain"
+    },
+    {
+      "id": 9,
+      "korean": "고마워 / 나를 초대해 줘서 / 저녁 식사에",
+      "english": "Thank you for / inviting me / to dinner.",
+      "highlight": "inviting me"
+    },
+    {
+      "id": 10,
+      "korean": "어때? / 영화 보러 가는 게",
+      "english": "How about / going to the movies?",
+      "highlight": "going to the movies"
+    },
+    {
+      "id": 11,
+      "korean": "피하는 게 좋다 / 정크 푸드를 먹는 것을",
+      "english": "You should avoid / eating junk food.",
+      "highlight": "eating junk food"
+    },
+    {
+      "id": 12,
+      "korean": "톰은 / 관심이 있다 / 사진을 찍는 것에",
+      "english": "Tom / is interested in / taking photos.",
+      "highlight": "taking photos"
+    },
+    {
+      "id": 13,
+      "korean": "채소를 먹는 것은 / 중요하다 / 건강에",
+      "english": "Eating vegetables / is important / for health.",
+      "highlight": "Eating vegetables"
+    },
+    {
+      "id": 14,
+      "korean": "그녀는 / 계속했다 / 질문하는 것을",
+      "english": "She / kept / asking questions.",
+      "highlight": "asking questions"
+    },
+    {
+      "id": 15,
+      "korean": "나는 / 연습했다 / 피아노 치는 것을 / 한 시간 동안",
+      "english": "I / practiced / playing the piano / for an hour.",
+      "highlight": "playing the piano"
+    },
+    {
+      "id": 16,
+      "korean": "자전거를 타는 것은 / 이다 / 아주 재미있는",
+      "english": "Riding a bike / is / a lot of fun.",
+      "highlight": "Riding a bike"
+    },
+    {
+      "id": 17,
+      "korean": "그는 / 나갔다 / 작별 인사를 하지 않고",
+      "english": "He / went out / without / saying goodbye.",
+      "highlight": "saying goodbye"
+    },
+    {
+      "id": 18,
+      "korean": "나는 / 학수고대하고 있다 / 너를 보는 것을",
+      "english": "I / look forward to / seeing you.",
+      "highlight": "seeing you"
+    },
+    {
+      "id": 19,
+      "korean": "미루지 마라 / 너의 숙제 하는 것을 / 내일로",
+      "english": "Don't put off / doing your homework / until tomorrow.",
+      "highlight": "doing your homework"
+    },
+    {
+      "id": 20,
+      "korean": "제안합니다 / 택시를 타는 것을",
+      "english": "I / suggest / taking a taxi.",
+      "highlight": "taking a taxi"
+    },
+    {
+      "id": 21,
+      "korean": "나는 / 지겹다 (지쳤다) / 그를 기다리는 것이",
+      "english": "I / am tired of / waiting for him.",
+      "highlight": "waiting for him"
+    },
+    {
+      "id": 22,
+      "korean": "그들은 / 부인했다 / 그 꽃병을 깬 것을",
+      "english": "They / denied / breaking the vase.",
+      "highlight": "breaking the vase"
+    },
+    {
+      "id": 23,
+      "korean": "실수하는 것은 / 이다 / 배움의 일부",
+      "english": "Making mistakes / is / part of learning.",
+      "highlight": "Making mistakes"
+    },
+    {
+      "id": 24,
+      "korean": "상상해 봐라 / 하늘을 나는 것을",
+      "english": "Imagine / flying in the sky.",
+      "highlight": "flying in the sky"
+    },
+    {
+      "id": 25,
+      "korean": "그는 / 두려워한다 / 대중 앞에서 연설하는 것을",
+      "english": "He / is afraid of / making a speech / in public.",
+      "highlight": "making a speech"
+    },
+    {
+      "id": 26,
+      "korean": "나는 / 싶다 (기분이 든다) / 피자를 먹고",
+      "english": "I / feel like / eating pizza.",
+      "highlight": "eating pizza"
+    },
+    {
+      "id": 27,
+      "korean": "게임을 하는 것 대신에 / 책을 좀 읽어라",
+      "english": "Instead of / playing games, / read some books.",
+      "highlight": "playing games"
+    },
+    {
+      "id": 28,
+      "korean": "그녀는 / 그만뒀다 / 그 회사에서 일하는 것을",
+      "english": "She / quit / working for the company.",
+      "highlight": "working for the company"
+    },
+    {
+      "id": 29,
+      "korean": "영어를 마스터하는 것은 / 쉽지 않다",
+      "english": "Mastering English / is not / easy.",
+      "highlight": "Mastering English"
+    },
+    {
+      "id": 30,
+      "korean": "그 도둑은 / 인정했다 / 돈을 훔친 것을",
+      "english": "The thief / admitted / stealing the money.",
+      "highlight": "stealing the money"
+    }
+  ],
+  "vocabulary": [
+    {
+      "english": "keep a diary",
+      "korean": "일기를 쓰다",
+      "note": "연어(Collocation)"
+    },
+    {
+      "english": "mind",
+      "korean": "꺼리다, 싫어하다",
+      "note": "뒤에 ing"
+    },
+    {
+      "english": "give up",
+      "korean": "포기하다",
+      "note": "뒤에 ing"
+    },
+    {
+      "english": "invite",
+      "korean": "초대하다",
+      "note": ""
+    },
+    {
+      "english": "avoid",
+      "korean": "피하다",
+      "note": "뒤에 ing"
+    },
+    {
+      "english": "be interested in",
+      "korean": "~에 관심이 있다",
+      "note": "전치사 in"
+    },
+    {
+      "english": "look forward to",
+      "korean": "~를 학수고대하다",
+      "note": "to 뒤에 ing (시험 출제 1순위)"
+    },
+    {
+      "english": "put off",
+      "korean": "미루다, 연기하다",
+      "note": "= postpone"
+    },
+    {
+      "english": "suggest",
+      "korean": "제안하다",
+      "note": "뒤에 ing"
+    },
+    {
+      "english": "be tired of",
+      "korean": "~에 싫증 나다",
+      "note": ""
+    },
+    {
+      "english": "deny",
+      "korean": "부인하다",
+      "note": ""
+    },
+    {
+      "english": "make a speech",
+      "korean": "연설하다",
+      "note": ""
+    },
+    {
+      "english": "feel like ~ing",
+      "korean": "~하고 싶다",
+      "note": "관용구"
+    },
+    {
+      "english": "quit",
+      "korean": "그만두다",
+      "note": "= stop"
+    },
+    {
+      "english": "admit",
+      "korean": "인정하다",
+      "note": ""
+    }
+  ],
+  "exam_tips": "1. **동명사만 좋아하는 동사들 (암기 필수!)**\n    - `Enjoy`, `Finish`, `Stop`, `Mind`, `Give up`, `Avoid`, `Practice`, `Quit`, `Put off`, `Suggest`\n    - *팁: 앞 글자를 따서 외우기도 합니다 (MEGA PASS 등).*\n2. **전치사 뒤에는 무조건 -ing**\n    - `of`, `in`, `at`, `about`, `for`, `with`, `without` 뒤에 동사가 오면 100% 동명사입니다.\n3. **함정 카드: Look forward to -ing**\n    - 여기서 `to`는 투부정사가 아니라 전치사입니다. 그래서 뒤에 동사원형이 오면 **오답**입니다! (`Look forward to see` (X) -> `Look forward to seeing` (O))\n\n---\n\n동명사 파트는 외워야 할 동사들이 좀 있어서 예문에 최대한 다양하게 넣었습니다.\n\n다음은 **Chapter 04. 현재분사와 과거분사 (형용사 역할)**입니다. ing가 나왔으니 헷갈리는 분사(ing/p.p)를 바로 잡고 가는 것이 좋습니다."
+}
